@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.colorNW {
+  background-color: #ffa500;
+}
+
+.colorNE {
+  background-color: #15ff00;
+}
+
+.colorSE {
+  background-color: #00ffff;
+}
+
+.colorSW {
+  background-color: #87cefa;
+}
